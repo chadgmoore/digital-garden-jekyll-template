@@ -12,6 +12,8 @@ permalink: /
 </p>
 I'm just starting this garden as of May 12, 2023 so it's pretty sparse around here. I'll be adding to it. Thanks for visiting. 
 
+I'm interested in [[acting]], [[analog photography]], [[Buddhism]], [[Absurdism]] as a philosphy, [[animation]], [[sketchnotes]] and [[graphic facilitation]], [[futures thinking]], and [[sketch comedy]].
+
 ### Want to make your own garden?
 
 * This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).

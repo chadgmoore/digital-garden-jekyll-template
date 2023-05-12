@@ -1,3 +1,5 @@
+[[Analog Photography]]
+
 These are my notes about scanning film negatives with the [Lomo Digitaliza Max](https://shop.lomography.com/us/digitaliza-max) scanner and the snapseed application.
 
 When having the film developed at the lab, ask them to not cut the negatives so that the scanning process is easier.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Graphic Recording
+id: graphic-recoridng
+permalink: /graphic-recording
+---
 
 * Resources
 	* [Brandy Agerbeck](https://www.loosetooth.com/about) Loosetooth

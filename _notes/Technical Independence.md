@@ -1,7 +1,4 @@
-# Technical Independance
+[[Derek Sivers]] link. I am using to set up Where Light Gathers.
 
-
-[Derek Sivers Guide](http://sive.rs/ti), which I am using to set up the [Where Light Gathers](https://wherelightgathers.com) website.
-
-
+http://sive.rs/ti
 

@@ -1,0 +1,11 @@
+
+[[Sketchnotes]]
+
+![](StoryPattern.jpeg)
+
+
+
+
+
+
+

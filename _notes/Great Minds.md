@@ -1,0 +1,3 @@
+[[Sketchnotes]]
+
+![](GreatMinds.jpeg)

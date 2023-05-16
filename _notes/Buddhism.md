@@ -1,3 +1,1 @@
-#Buddhism
-
 https://aryaloka.org

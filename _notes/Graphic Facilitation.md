@@ -1,4 +1,3 @@
-# Graphic Facilitation
 
 * Resources
 	* [Brandy Agerbeck](https://www.loosetooth.com/about) Loosetooth

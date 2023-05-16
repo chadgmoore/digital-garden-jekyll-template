@@ -1,0 +1,10 @@
+[[Sketchnotes]]
+
+![](FirstTwentyHours.jpeg)
+
+
+
+
+
+
+

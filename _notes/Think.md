@@ -1,0 +1,10 @@
+[[Sketchnotes]]
+
+![](Think.jpeg)
+
+
+
+
+
+
+

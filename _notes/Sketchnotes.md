@@ -1,1 +1,0 @@
-Sketchnotes aka visual notetaking. 

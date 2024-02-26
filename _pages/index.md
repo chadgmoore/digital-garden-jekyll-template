@@ -5,14 +5,12 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   👋 hi there, I'm Chad. This is my collection of ideas. AKA a digital garden.
 </p>
-I'm just starting this garden as of May 12, 2023 so it's pretty sparse around here. I'll be adding to it. Thanks for visiting. 
-
-I'm interested in [[acting]], [[analog photography]], [[Buddhism]], [[Absurdism]] as a philosphy, [[animation]], [[sketchnotes]] and [[graphic facilitation]], [[futures thinking]], and [[sketch comedy]].
+I'm just re-booting this garden as of February 26, 2023 so it's pretty sparse around here. Thanks for visiting. 
 
 ### Want to make your own garden?
 

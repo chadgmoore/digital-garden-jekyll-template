@@ -1,3 +1,6 @@
+---
+---
+
 [[Sketchnotes]]
 
 ![](GreatMinds.jpeg)

@@ -1,5 +1,0 @@
----
----
-
-
-[[Loving Kindness]]

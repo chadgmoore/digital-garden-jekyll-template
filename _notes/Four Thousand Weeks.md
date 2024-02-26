@@ -1,6 +1,0 @@
----
----
-
-[[Sketchnotes]]
-
-![](FourThousandWeeks.jpeg)
